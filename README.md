@@ -1,2 +1,2 @@
-# sitedereceitas
-Site Fruto e Fruta de receitas criado a partir de aulas da plataforma alura
+# arquitetura-css
+curso de arquitetura da Alura. 
